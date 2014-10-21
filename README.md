@@ -1,7 +1,8 @@
 Psniffer
 ========
+This is a project from my course that requires us building a GUI program with basic functions of a sniffer by using [winPcap](www.winpcap.org/) library.
 
-A GUI sniffer wrritten by Python using wxPython, winpcapy and matplotlib.
+Psniffer is a GUI sniffer wrritten by Python using wxPython, winpcapy and matplotlib.
 
 #Requirement:
 * [wxPython]( http://www.wxpython.org/)
@@ -13,7 +14,7 @@ A GUI sniffer wrritten by Python using wxPython, winpcapy and matplotlib.
 $python Psniffer.py
 ```
 
-#Iunctions:
+#Functions:
 
 * list all network interfaces
 * set filters before capturing 
