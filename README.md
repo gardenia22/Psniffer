@@ -1,6 +1,6 @@
 Psniffer
 ========
-This is a project from my course that requires us building a GUI program with basic functions of a sniffer by using [winPcap](www.winpcap.org/) library.
+This is a project from my course that requires us building a GUI program with basic functions of a sniffer by using [winpcap](www.winpcap.org/) library.
 
 Psniffer is a GUI sniffer wrritten by Python using wxPython, winpcapy and matplotlib.
 
